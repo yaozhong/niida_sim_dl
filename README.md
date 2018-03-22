@@ -1,6 +1,10 @@
 # Simulation patten classification with DL
 
-## current data scale
+Chainer based implementation for the classfication of the darwin and netural revolution based simulaiton results.
+The input of the figure is 250 (driven mutations) x 250 (cells)
+
+
+## current data scale (sample numbers)
 | darwin | neutral |
 |--------|---------|
 | 6810   | 5814    |
