@@ -1,4 +1,4 @@
-# Simulation patten classification with DL
+# Simulation pattern classification with DL
 
 Chainer based implementation for the classfication of the darwin and netural revolution based simulaiton results.
 The input of the figure is 250 (driven mutations) x 250 (cells)
